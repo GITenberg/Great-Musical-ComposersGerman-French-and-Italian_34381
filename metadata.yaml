@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '44084'
     url: http://www.gutenberg.org/2009/agents/44084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34381#Great-Musical-ComposersGerman-French-and-Italian
 gutenberg_issued: '2010-11-20'
 gutenberg_type: Text
 identifiers:
