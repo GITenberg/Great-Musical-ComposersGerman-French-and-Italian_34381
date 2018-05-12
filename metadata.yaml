@@ -1,0 +1,42 @@
+_repo: Great-Musical-ComposersGerman-French-and-Italian_34381
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferris, George T. (George Titus)
+    alias: Ferris, George Titus
+    birthdate: 1840
+    gutenberg_agent_id: '7404'
+    url: http://www.gutenberg.org/2009/agents/7404
+  editor:
+    agent_name: Sharp, Elizabeth A. (Elizabeth Amelia)
+    aliases:
+    - Sharp, Elizabeth Amelia Sharp
+    - Sharp, Mrs. William
+    - Sharp, E. A. (Elizabeth Amelia)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '44084'
+    url: http://www.gutenberg.org/2009/agents/44084
+description: ''
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34381'
+  lccn: '66032686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers'
+tableOfContents: 'Introduction -- Bach -- Handel -- Gluck -- Haydn -- Mozart -- Beethoven
+  -- Schubert and Schumann -- Chopin -- Weber -- Mendelssohn -- Wagner -- Palestrina
+  -- Piccini, Paisiello, and Cimarosa -- Rossini -- Donizetti and Bellini -- Verdi
+  -- Cherubini and his Predecessors -- Méhul, Spontini, and Halévy -- Boïeldieu and
+  Auber -- Meyerbeer -- Gounod -- Berlioz -- Appendix: Chronological table.'
+title: 'Great Musical Composers: German, French, and Italian'
+url: http://www.gutenberg.org/ebooks/34381
